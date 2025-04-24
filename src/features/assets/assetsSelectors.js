@@ -1,0 +1,1 @@
+export const selectAllAssets = (state) => state.assets
